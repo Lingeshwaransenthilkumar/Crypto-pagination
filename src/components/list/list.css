@@ -1,0 +1,15 @@
+
+.list-container ul{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+
+
+.list-container{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}

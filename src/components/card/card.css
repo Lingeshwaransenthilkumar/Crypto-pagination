@@ -1,0 +1,35 @@
+.card{
+    border: 1px solid white;
+    width:300px;
+    padding: 30px;
+    margin-right: 10px;
+    transition: all 0.6s ease;
+}
+.card img{
+    height: 200px;
+}
+
+.card .image{
+    text-align: center;
+}
+.desc p{
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.name{
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+    font-size: 18px;
+    color: rgba(255, 255, 0, 0.781);
+}
+
+.card:hover{
+    background: #ffffff49;
+    border: 1px solid rgba(255, 255, 0, 0.781);
+    color: black;
+
+}
